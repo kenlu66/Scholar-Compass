@@ -7,7 +7,7 @@ An interactive web application for exploring academic research profiles. Scholar
 ## 1. Project Structure
 
 ```text
-cse6242_project/
+Scholar Compass/
 ├── back_end/
 │   └── rag.py                  # Flask backend server
 ├── webpage/
