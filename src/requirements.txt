@@ -1,0 +1,12 @@
+# Flask Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Database
+neo4j==5.14.0
+
+# LLM API
+openai==1.0.0
+
+# Environment Variables
+python-dotenv==1.0.0
